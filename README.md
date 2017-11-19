@@ -1,0 +1,2 @@
+# mygit
+first repository
